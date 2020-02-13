@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shaexithi.cf-json.org/sitemap.xml
